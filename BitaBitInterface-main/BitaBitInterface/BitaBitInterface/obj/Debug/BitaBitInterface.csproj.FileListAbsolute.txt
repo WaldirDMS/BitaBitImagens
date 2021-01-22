@@ -1,0 +1,10 @@
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.csprojAssemblyReference.cache
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.Properties.Resources.resources
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.csproj.GenerateResource.cache
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.csproj.CoreCompileInputs.cache
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitABitInterface.Form1.resources
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\bin\Debug\BitaBitInterface.exe.config
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\bin\Debug\BitaBitInterface.exe
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\bin\Debug\BitaBitInterface.pdb
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.exe
+C:\Users\Waldir\source\repos\BitaBitInterface\BitaBitInterface\obj\Debug\BitaBitInterface.pdb
